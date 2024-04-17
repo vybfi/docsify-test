@@ -1,4 +1,3 @@
-* [docsify相关](/docsify相关/) 
+* [Git教程](Git教程/)
 
-* [简体中文](/zh-cn/)
-
+* [PHP教程](PHP教程/)
